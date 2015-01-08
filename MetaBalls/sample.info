@@ -1,0 +1,17 @@
+5		// Number of metaballs
+0 0 0		// List of metaball centers (cx, cy, cz)
+0 0 .5
+0 0 0
+0 0 .75
+-.5 -.5 -.2
+10		// List of rho values
+5
+20
+2
+20
+-10		// List of lambda values
+10
+10
+10
+10
+3.0		// Contour value
